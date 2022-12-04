@@ -4,6 +4,7 @@
 ## Year 2022
 - Day 01 - `odin`
 - Day 02 - `odin`
+- Day 03 - `odin`
 
 ## How to run it
 - Go inside the folder of the day that you want to run
