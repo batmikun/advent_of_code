@@ -6,6 +6,7 @@
 - Day 02 - `odin`
 - Day 03 - `odin`
 - Day 04 - `python`
+- Day 05 - `python`
 
 ## How to run it
 - Go inside the folder of the day that you want to run
